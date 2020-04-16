@@ -3,3 +3,4 @@ In atom I can write text, but not modify other files.
 
 
 Ok I saved the filename, let's see what we can do here.
+I can add some more stuff here now to see if Atom opens git
