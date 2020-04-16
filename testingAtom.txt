@@ -7,3 +7,11 @@ I can add some more stuff here now to see if Atom opens git
 
 So with atom I can commit changes, but I need Github
 Desktop to push them to the repo.
+Ah no, I saw I can also directly push from Atom (buttom right push icon)
+But I guess this only works for files I have edited here in the text editor.
+
+But this editor also works for python code actually. And maybe also Arduino code.
+Let's test arduino code!
+
+
+Yes Arduino code looks really nice here.
