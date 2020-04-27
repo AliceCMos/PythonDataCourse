@@ -1,0 +1,21 @@
+{
+    "database.host": "127.0.0.1",
+    "database.password": "simple",
+    "database.user": "root",
+    "database.port": 3306,
+    "database.reconnect": true,
+    "connection.init_function": null,
+    "connection.charset": "",
+    "loglevel": "INFO",
+    "safemode": true,
+    "fetch_format": "frame",
+    "display.limit": 12,
+    "display.width": 14,
+    "display.show_tuple_count": true,
+    "database.use_tls": null,
+    "enable_python_native_blobs": false,
+    "enable_python_pickle_blobs": false,
+    "enable_automakers": false,
+    "tmp_folder": null,
+    "backup_context": null
+}
